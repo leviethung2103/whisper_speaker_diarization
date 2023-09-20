@@ -1,0 +1,2 @@
+# whisper_speaker_diarization
+Speaker Diarization
